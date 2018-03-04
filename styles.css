@@ -1,0 +1,23 @@
+@charset "UTF-8"
+
+body {
+    background-color: ;
+}
+table {
+    margin-left: 40%;
+    margin-top: 0%;
+}
+
+td {
+    width: 46px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 12px;
+}
+th {
+    width: 299px;
+    height: 50px;
+    background-color: brown;
+    text-align: right;
+    font-size: 40px;
+}
